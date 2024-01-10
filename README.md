@@ -8,3 +8,4 @@ Data sources used:
 - https://en.wikipedia.org/wiki/List_of_ethnic_minority_politicians_in_the_United_Kingdom [Additional]
 
 Final processed data has been saved in economic_data.csv and health_data.csv. These two data sets should be used as the data sources for the analysis plots. 
+Wages.csv was obtained from https://commonslibrary.parliament.uk/constituency-data-wages/ but this doesnt need to be read/downoaded to do the plots as this data has been combined into economic_data.csv and health_data.csv
